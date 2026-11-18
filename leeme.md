@@ -1,6 +1,6 @@
 ## UIII act 4 Datos Pandas 
 ## Inversiones en bolsa -- Ramirez Azul NC 0441 NL 47
-
+![alt text](image-14.png)
 ## Tabla original de inversiones en bolsa
 ![alt text](image-1.png)
 ## 7. Convertir el DataFrame en archivo CSV
