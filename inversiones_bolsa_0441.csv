@@ -1,0 +1,7 @@
+﻿id_inversion,cliente,ticker,nombre_empresa,cantidad_acciones,precio_compra,precio_actual,inversion_inicial,valor_actual,rendimiento_porcentaje
+101,Ana,AAPL,Apple,10,150,180,1500,1800,20.0
+102,Luis,TSLA,Tesla,5,200,220,1000,1100,10.0
+103,Sofia,AMZN,Amazon,8,130,150,1040,1200,15.3
+104,Carlos,MSFT,Microsoft,15,250,300,3750,4500,20.0
+105,Maria,GOOGL,Google,12,120,140,1440,1680,16.6
+106,Jorge,META,Meta,6,180,200,1080,1200,11.1
